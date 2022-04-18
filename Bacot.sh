@@ -18,11 +18,11 @@ blue="\033[1;34m"
 cyan="\033[1;36m"
 red="\033[1;31m"
 
-figlet MrNOOB07| lolcat
+figlet rosyidCracker| lolcat
 
 echo "_____________________________________________________________"
-echo "Tools    : Kumpulan Mr.NOOB07 Tools $Black                         " |lolcat
-echo "Creat By   : Mr.NOOB07 $white                                      " |lolcat
+echo "Tools    : Kumpulan Anak Lomte Tools $Black                         " |lolcat
+echo "Creat By   : rosyidCracker $white                                      " |lolcat
 echo "Contact  : 0896xxxxxxxxxx   $white                             " |lolcat
 echo "_____________________________________________________________"
 
